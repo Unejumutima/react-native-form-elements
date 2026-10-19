@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "react-native-form-elements",
+    "slug": "react-native-form-elements",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.formapp.reactnativeformelements"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
